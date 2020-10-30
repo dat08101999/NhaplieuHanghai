@@ -1,0 +1,28 @@
+D:\working\Dự án\NhapLieuHangHai\NhapLieuHangHai\NhapLieuHangHai\bin\Debug\NhapLieuHangHai.exe
+D:\working\Dự án\NhapLieuHangHai\NhapLieuHangHai\NhapLieuHangHai\bin\Debug\NhapLieuHangHai.pdb
+D:\working\Dự án\NhapLieuHangHai\NhapLieuHangHai\NhapLieuHangHai\obj\x86\Debug\NhapLieuHangHai.Form1.resources
+D:\working\Dự án\NhapLieuHangHai\NhapLieuHangHai\NhapLieuHangHai\obj\x86\Debug\NhapLieuHangHai.MenuScreen.resources
+D:\working\Dự án\NhapLieuHangHai\NhapLieuHangHai\NhapLieuHangHai\obj\x86\Debug\NhapLieuHangHai.QuanLyDoiTuong.resources
+D:\working\Dự án\NhapLieuHangHai\NhapLieuHangHai\NhapLieuHangHai\obj\x86\Debug\NhapLieuHangHai.Properties.Resources.resources
+D:\working\Dự án\NhapLieuHangHai\NhapLieuHangHai\NhapLieuHangHai\obj\x86\Debug\NhapLieuHangHai.QuanLyHaiDoForm.resources
+D:\working\Dự án\NhapLieuHangHai\NhapLieuHangHai\NhapLieuHangHai\obj\x86\Debug\NhapLieuHangHai.SplashScreen.resources
+D:\working\Dự án\NhapLieuHangHai\NhapLieuHangHai\NhapLieuHangHai\obj\x86\Debug\NhapLieuHangHai.csproj.GenerateResource.Cache
+D:\working\Dự án\NhapLieuHangHai\NhapLieuHangHai\NhapLieuHangHai\obj\x86\Debug\NhapLieuHangHai.exe
+D:\working\Dự án\NhapLieuHangHai\NhapLieuHangHai\NhapLieuHangHai\obj\x86\Debug\NhapLieuHangHai.pdb
+D:\working\Dự án\NhapLieuHangHai\NhapLieuHangHai\NhapLieuHangHai\obj\x86\Debug\NhapLieuHangHai.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\NhapLieuHangHai\NhapLieuHangHai\bin\Debug\NhapLieuHangHai.exe
+C:\Users\Dell\Desktop\NhapLieuHangHai\NhapLieuHangHai\bin\Debug\NhapLieuHangHai.pdb
+C:\Users\Dell\Desktop\NhapLieuHangHai\NhapLieuHangHai\obj\x86\Debug\NhapLieuHangHai.ChonFileNguon.resources
+C:\Users\Dell\Desktop\NhapLieuHangHai\NhapLieuHangHai\obj\x86\Debug\NhapLieuHangHai.Form1.resources
+C:\Users\Dell\Desktop\NhapLieuHangHai\NhapLieuHangHai\obj\x86\Debug\NhapLieuHangHai.FormNhapLieu.resources
+C:\Users\Dell\Desktop\NhapLieuHangHai\NhapLieuHangHai\obj\x86\Debug\NhapLieuHangHai.MenuScreen.resources
+C:\Users\Dell\Desktop\NhapLieuHangHai\NhapLieuHangHai\obj\x86\Debug\NhapLieuHangHai.QuanLyDoiTuong.resources
+C:\Users\Dell\Desktop\NhapLieuHangHai\NhapLieuHangHai\obj\x86\Debug\NhapLieuHangHai.Properties.Resources.resources
+C:\Users\Dell\Desktop\NhapLieuHangHai\NhapLieuHangHai\obj\x86\Debug\NhapLieuHangHai.QuanLyHaiDoForm.resources
+C:\Users\Dell\Desktop\NhapLieuHangHai\NhapLieuHangHai\obj\x86\Debug\NhapLieuHangHai.SplashScreen.resources
+C:\Users\Dell\Desktop\NhapLieuHangHai\NhapLieuHangHai\obj\x86\Debug\NhapLieuHangHai.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\NhapLieuHangHai\NhapLieuHangHai\obj\x86\Debug\NhapLieuHangHai.exe
+C:\Users\Dell\Desktop\NhapLieuHangHai\NhapLieuHangHai\obj\x86\Debug\NhapLieuHangHai.pdb
+C:\Users\Dell\Desktop\NhapLieuHangHai\NhapLieuHangHai\obj\x86\Debug\NhapLieuHangHai.QuanLyTinhThanhScreen.resources
+C:\Users\Dell\Desktop\NhapLieuHangHai\NhapLieuHangHai\obj\x86\Debug\NhapLieuHangHai.QuanLyChung.resources
+C:\Users\Dell\Desktop\NhapLieuHangHai\NhapLieuHangHai\obj\x86\Debug\NhapLieuHangHai.csprojAssemblyReference.cache
